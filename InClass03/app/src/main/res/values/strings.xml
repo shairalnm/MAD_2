@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InClass03</string>
+
+    <string name="textViewName">Name:</string>
+    <string name="textViewStudentId">Student Id:</string>
+    <string name="textViewDepartment">Department:</string>
+    <string name="textViewNameDisplay">abc</string>
+    <string name="TextViewStudentIdDisplay">123456789</string>
+    <string name="TextViewDepartmentDisplay">abc</string>
+    <string name="textViewNameValue">ABC</string>
+    <string name="textViewStudentIdValue">123456789</string>
+    <string name="textViewDepartmentValue">ABC</string>
+    <string name="buttonEdit">Edit</string>
+</resources>
